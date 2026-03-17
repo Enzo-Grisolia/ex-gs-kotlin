@@ -3,10 +3,11 @@
 
 ### Enzo Grisolia de Souza - RM: 555706
 
-### LOGIN: ![Login](https://raw.githubusercontent.com/Enzo-Grisolia/ex-gs-kotlin/main/prints/tela-login.png)
+### LOGIN: ![Login](app/src/main/java/com/example/navegandoentretelas/Prints/tela-login.png)
 
-### MENU: ![Menu](https://raw.githubusercontent.com/Enzo-Grislia/ex-gs-kotlin/main/prints/tela-menu.png)
+### MENU: ![Menu](app/src/main/java/com/example/navegandoentretelas/Prints/tela-menu.png)
 
-### PEDIDOS: ![Pedidos](https://raw.githubusercontent.com/Enzo-Grisolia/ex-gs-kotlin/main/prints/tela-pedidos.png)
+### PEDIDOS: ![Pedidos](app/src/main/java/com/example/navegandoentretelas/Prints/tela-pedidos.png)
 
-### PERFIL: ![Perfil](https://raw.githubusercontent.com/Enzo-Grisolia/ex-gs-kotlin/main/prints/tela-perfil.png)
+
+### PERFIL: ![Perfil](app/src/main/java/com/example/navegandoentretelas/Prints/tela-perfil.png)
